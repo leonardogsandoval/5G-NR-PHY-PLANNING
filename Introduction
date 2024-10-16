@@ -14,3 +14,17 @@ Some of the main features include:
 - CORESETs
 - beamforming
 - Massive MIMO.
+
+
+1. Bands
+2. OFDMA
+3. Numerology
+
+The rectangular function with a duration of T, produces a Fourier transfom  = T*sinc(fT), this makes that the first crossing zero would be with f=1/T, tha means that the next carrier can have its maximum at SCS=1/T
+
+see https://www.nrexplained.com/basics/ofdm
+
+taking this into account, the symbol duration depends on the SCS
+
+
+
