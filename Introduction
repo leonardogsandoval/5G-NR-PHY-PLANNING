@@ -1,0 +1,16 @@
+#5G Fetures
+
+Some of the main features include:
+- wide spectrum from sub-GHz bands to mmWave bands
+- an OFDM-based air interface
+- scalable numerology
+- deployments from indoor picocells to outdoor macrocells
+- FDD and TDD support
+- flexible and self-contained slot structure
+- modulation up to 256QAM
+- polar and LDPC codes
+- Hybrid-ARQ (HARQ)
+- bandwidth parts
+- CORESETs
+- beamforming
+- Massive MIMO.
